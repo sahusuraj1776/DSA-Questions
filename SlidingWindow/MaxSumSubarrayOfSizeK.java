@@ -5,7 +5,6 @@
 // Note: A subarray is a contiguous part of any given array.
 
 // Examples:
-
 // Input: arr[] = [100, 200, 300, 400], k = 2
 // Output: 700
 // Explanation: arr2 + arr3 = 700, which is maximum.
@@ -19,7 +18,6 @@
 // 1 ≤ arr.size() ≤ 106
 // 1 ≤ arr[i] ≤ 106
 // 1 ≤ k ≤ arr.size()
-
 
 
 package SlidingWindow;

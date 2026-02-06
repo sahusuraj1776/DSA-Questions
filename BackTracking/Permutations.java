@@ -1,4 +1,3 @@
-package BackTracking;
 // Permutations - LeetCode-46
 // Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
 
@@ -19,6 +18,8 @@ package BackTracking;
 // -10 <= nums[i] <= 10
 // All the integers of nums are unique.
 
+
+package BackTracking;
 import java.util.ArrayList;
 import java.util.List;
 

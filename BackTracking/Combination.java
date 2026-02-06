@@ -1,4 +1,3 @@
-package BackTracking;
 // Combinations - LeetCode-77
 
 // Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].
@@ -21,6 +20,7 @@ package BackTracking;
 // 1 <= n <= 20
 // 1 <= k <= n
 
+package BackTracking;
 import java.util.ArrayList;
 import java.util.List;
 

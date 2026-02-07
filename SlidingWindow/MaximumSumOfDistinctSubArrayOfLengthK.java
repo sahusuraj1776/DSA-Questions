@@ -115,6 +115,6 @@ public class MaximumSumOfDistinctSubArrayOfLengthK {
         int [] arr = {1,5,4,2,9,9,9};
         int k = 3;
         long max = maximumSubarraySum(arr,k);
-        System.out.println("Max Sum of sub array: "+max);
+        System.out.println("Output: "+max);
     }
 }
